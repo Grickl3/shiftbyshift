@@ -1,0 +1,42 @@
+/*
+	https://paletton.com/#uid=53-0b0koVydacX7iRKBtroJA-95
+
+*/
+
+p {
+	margin: 20px;
+	max-width: 750px;
+}
+
+.main-content {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.header-image {
+	max-height: 60vh;
+	align-self: center;
+}
+
+.words { align-self: center; }
+
+.claim {
+	font-family: 'Cormorant Infant', Garamond, serif;
+	color: #134a80;
+	font-size: 3.5rem;
+}
+.target {
+	margin-top: -3rem;
+	font-family: 'Cormorant', Garamond, serif;
+	font-weight: 300;
+	font-style: italic;
+	color: #03192f;
+	font-size: 2.75rem;
+}
+.when {
+	font-family: 'Cormorant', Garamond, serif;
+	color: #2a87a6;
+	font-size: 3rem;
+}
